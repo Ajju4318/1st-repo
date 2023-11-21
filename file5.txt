@@ -7,3 +7,8 @@ bye
 AAAAAAAAAAAAa
 BBBBBBB
 CC
+hi this is Ajju
+this is my 5th file in my 1st repo
+right now i'm practicing vsc
+using vsc need to commit, push, pull
+and branch
